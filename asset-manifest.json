@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KeToan-chart/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/KeToan-chart/static/js/main.3d107ec7.chunk.js",
+    "main.js.map": "/KeToan-chart/static/js/main.3d107ec7.chunk.js.map",
+    "runtime-main.js": "/KeToan-chart/static/js/runtime-main.026b98de.js",
+    "runtime-main.js.map": "/KeToan-chart/static/js/runtime-main.026b98de.js.map",
+    "static/js/2.e5a1986f.chunk.js": "/KeToan-chart/static/js/2.e5a1986f.chunk.js",
+    "static/js/2.e5a1986f.chunk.js.map": "/KeToan-chart/static/js/2.e5a1986f.chunk.js.map",
+    "index.html": "/KeToan-chart/index.html",
+    "precache-manifest.4d8f0c11ed63f4e8439198fe393d5887.js": "/KeToan-chart/precache-manifest.4d8f0c11ed63f4e8439198fe393d5887.js",
+    "service-worker.js": "/KeToan-chart/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/KeToan-chart/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e5a1986f.chunk.js.LICENSE.txt": "/KeToan-chart/static/js/2.e5a1986f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.026b98de.js",
+    "static/js/2.e5a1986f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3d107ec7.chunk.js"
+  ]
+}
